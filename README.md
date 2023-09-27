@@ -19,6 +19,7 @@ In addition to my technical prowess, I'm committed to ethical hacking practices 
 <!-- <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> -->
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="macOS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2/2235.png" />
 <br />
 
 #
