@@ -4,6 +4,8 @@
 
 At just 14, I've been captivated by the world of tech since I was a little kid. My thirst for knowledge knows no bounds, and I've already amassed a wealth of expertise that belies my age. Whether it's coding or anything tech-related, I'm often leading the way. Building projects from the ground up, tackling real-world problems with lines of code, discovering new oportunities  every day, I'm on a mission to shape my digital world one step at a time. I'm here to inspire and drive change.
 
+In addition to my technical prowess, I'm committed to ethical hacking practices and strive to uphold the highest standards of responsibility. While the allure of exploiting vulnerabilities exists in the hacking world, I firmly believe in using my skills for constructive purposes and safeguarding digital environments. My goal is to inspire positive change and contribute to a more secure and ethical tech landscape.
+
 [![Follow me on Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://instagram.com/vladirocox "Follow me on Instagram")
 
 ### 🧰 Languages and Tools
